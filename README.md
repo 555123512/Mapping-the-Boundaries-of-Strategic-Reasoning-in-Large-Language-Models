@@ -1,11 +1,13 @@
 # Mapping-the-Boundaries-of-Strategic-Reasoning-in-Large-Language-Models
 ## Code Repositories for Game Theory Research
 
+### Complete Information Game Environment
+[https://github.com/Wenyueh/game_theory](https://github.com/Wenyueh/game_theory)
+
 ### 🛡️ Adversarial Game Environments
 | Project Name                          | Repository Link                                                                 |
 |---------------------------------------|---------------------------------------------------------------------------------|
-| Complete Information Game Environment | [https://github.com/Wenyueh/game_theory](https://github.com/Wenyueh/game_theory) |
-| Adversarial Game Environment          | [https://github.com/NKAI-Decision-Team/LLM-PySC2](https://github.com/NKAI-Decision-Team/LLM-PySC2) |
+| LLM-SMAC and LLM-PySC2        | [https://github.com/NKAI-Decision-Team/LLM-PySC2](https://github.com/NKAI-Decision-Team/LLM-PySC2) |
 
 ### 🤝 Cooperative Game Environments
 | Project Name                          | Repository Link                                                                 |
